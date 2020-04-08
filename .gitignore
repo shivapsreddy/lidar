@@ -1,0 +1,12 @@
+#.gitignore file for ros2_build folder.
+build/
+install/
+log/
+tmp/
+src/
+*~
+*.pdf
+*.orig
+node_modules/
+.venv/
+
