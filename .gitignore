@@ -1,10 +1,6 @@
 #.gitignore file for ros2_build folder.
-build/
-install/
-log/
-tmp/
-src/
 *~
+*.swp
 *.pdf
 *.orig
 node_modules/
